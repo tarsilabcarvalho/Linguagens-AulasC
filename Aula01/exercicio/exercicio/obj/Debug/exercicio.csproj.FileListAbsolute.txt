@@ -1,0 +1,8 @@
+c:\users\alunogti\documents\visual studio 2015\Projects\exercicio\exercicio\bin\Debug\exercicio.exe.config
+c:\users\alunogti\documents\visual studio 2015\Projects\exercicio\exercicio\obj\Debug\exercicio.formSegundos.resources
+c:\users\alunogti\documents\visual studio 2015\Projects\exercicio\exercicio\obj\Debug\exercicio.Properties.Resources.resources
+c:\users\alunogti\documents\visual studio 2015\Projects\exercicio\exercicio\obj\Debug\exercicio.csproj.GenerateResource.Cache
+c:\users\alunogti\documents\visual studio 2015\Projects\exercicio\exercicio\bin\Debug\exercicio.exe
+c:\users\alunogti\documents\visual studio 2015\Projects\exercicio\exercicio\bin\Debug\exercicio.pdb
+c:\users\alunogti\documents\visual studio 2015\Projects\exercicio\exercicio\obj\Debug\exercicio.exe
+c:\users\alunogti\documents\visual studio 2015\Projects\exercicio\exercicio\obj\Debug\exercicio.pdb
