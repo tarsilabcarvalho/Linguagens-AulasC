@@ -1,0 +1,121 @@
+﻿namespace Exercicio4
+{
+    partial class frmExemplo1
+    {
+        /// <summary>
+        /// Required designer variable.
+        /// </summary>
+        private System.ComponentModel.IContainer components = null;
+
+        /// <summary>
+        /// Clean up any resources being used.
+        /// </summary>
+        /// <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        protected override void Dispose(bool disposing)
+        {
+            if (disposing && (components != null))
+            {
+                components.Dispose();
+            }
+            base.Dispose(disposing);
+        }
+
+        #region Windows Form Designer generated code
+
+        /// <summary>
+        /// Required method for Designer support - do not modify
+        /// the contents of this method with the code editor.
+        /// </summary>
+        private void InitializeComponent()
+        {
+            this.txtNum1 = new System.Windows.Forms.TextBox();
+            this.txtNum2 = new System.Windows.Forms.TextBox();
+            this.lblMultiplicacao = new System.Windows.Forms.Label();
+            this.lblResultado = new System.Windows.Forms.Label();
+            this.btnIgual = new System.Windows.Forms.Button();
+            this.btnLimpar = new System.Windows.Forms.Button();
+            this.SuspendLayout();
+            // 
+            // txtNum1
+            // 
+            this.txtNum1.Location = new System.Drawing.Point(22, 25);
+            this.txtNum1.MaxLength = 5;
+            this.txtNum1.Name = "txtNum1";
+            this.txtNum1.Size = new System.Drawing.Size(54, 20);
+            this.txtNum1.TabIndex = 0;
+            // 
+            // txtNum2
+            // 
+            this.txtNum2.Location = new System.Drawing.Point(104, 23);
+            this.txtNum2.MaxLength = 5;
+            this.txtNum2.Name = "txtNum2";
+            this.txtNum2.Size = new System.Drawing.Size(54, 20);
+            this.txtNum2.TabIndex = 1;
+            // 
+            // lblMultiplicacao
+            // 
+            this.lblMultiplicacao.AutoSize = true;
+            this.lblMultiplicacao.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lblMultiplicacao.Location = new System.Drawing.Point(83, 25);
+            this.lblMultiplicacao.Name = "lblMultiplicacao";
+            this.lblMultiplicacao.Size = new System.Drawing.Size(15, 13);
+            this.lblMultiplicacao.TabIndex = 2;
+            this.lblMultiplicacao.Text = "X";
+            // 
+            // lblResultado
+            // 
+            this.lblResultado.Location = new System.Drawing.Point(277, 20);
+            this.lblResultado.Name = "lblResultado";
+            this.lblResultado.Size = new System.Drawing.Size(100, 23);
+            this.lblResultado.TabIndex = 3;
+            this.lblResultado.Click += new System.EventHandler(this.lblResultado_Click);
+            // 
+            // btnIgual
+            // 
+            this.btnIgual.Location = new System.Drawing.Point(173, 20);
+            this.btnIgual.Name = "btnIgual";
+            this.btnIgual.Size = new System.Drawing.Size(75, 23);
+            this.btnIgual.TabIndex = 4;
+            this.btnIgual.Text = "=";
+            this.btnIgual.UseVisualStyleBackColor = true;
+            this.btnIgual.Click += new System.EventHandler(this.btnIgual_Click);
+            // 
+            // btnLimpar
+            // 
+            this.btnLimpar.Location = new System.Drawing.Point(134, 61);
+            this.btnLimpar.Name = "btnLimpar";
+            this.btnLimpar.Size = new System.Drawing.Size(75, 23);
+            this.btnLimpar.TabIndex = 5;
+            this.btnLimpar.Text = "Limpar";
+            this.btnLimpar.UseVisualStyleBackColor = true;
+            this.btnLimpar.Click += new System.EventHandler(this.btnLimpar_Click);
+            // 
+            // frmExemplo1
+            // 
+            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
+            this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
+            this.ClientSize = new System.Drawing.Size(376, 113);
+            this.Controls.Add(this.btnLimpar);
+            this.Controls.Add(this.btnIgual);
+            this.Controls.Add(this.lblResultado);
+            this.Controls.Add(this.lblMultiplicacao);
+            this.Controls.Add(this.txtNum2);
+            this.Controls.Add(this.txtNum1);
+            this.Name = "frmExemplo1";
+            this.Text = "Exemplo 1";
+            this.ResumeLayout(false);
+            this.PerformLayout();
+
+        }
+
+        #endregion
+
+        private System.Windows.Forms.TextBox txtNum1;
+        private System.Windows.Forms.TextBox txtNum2;
+        private System.Windows.Forms.Label lblMultiplicacao;
+        private System.Windows.Forms.Label lblResultado;
+        private System.Windows.Forms.Button btnIgual;
+        private System.Windows.Forms.Button btnLimpar;
+    }
+}
+

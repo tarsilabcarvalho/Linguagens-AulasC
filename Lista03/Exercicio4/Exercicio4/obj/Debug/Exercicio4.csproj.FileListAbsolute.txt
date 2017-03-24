@@ -1,0 +1,9 @@
+c:\users\aluno - gti-ads\documents\visual studio 2015\Projects\Exercicio4\Exercicio4\bin\Debug\Exercicio4.exe.config
+c:\users\aluno - gti-ads\documents\visual studio 2015\Projects\Exercicio4\Exercicio4\obj\Debug\Exercicio4.RollDie.resources
+c:\users\aluno - gti-ads\documents\visual studio 2015\Projects\Exercicio4\Exercicio4\obj\Debug\Exercicio4.Properties.Resources.resources
+c:\users\aluno - gti-ads\documents\visual studio 2015\Projects\Exercicio4\Exercicio4\obj\Debug\Exercicio4.csproj.GenerateResource.Cache
+c:\users\aluno - gti-ads\documents\visual studio 2015\Projects\Exercicio4\Exercicio4\bin\Debug\Exercicio4.exe
+c:\users\aluno - gti-ads\documents\visual studio 2015\Projects\Exercicio4\Exercicio4\bin\Debug\Exercicio4.pdb
+c:\users\aluno - gti-ads\documents\visual studio 2015\Projects\Exercicio4\Exercicio4\obj\Debug\Exercicio4.exe
+c:\users\aluno - gti-ads\documents\visual studio 2015\Projects\Exercicio4\Exercicio4\obj\Debug\Exercicio4.pdb
+C:\Users\Aluno - Gti-Ads\Documents\Visual Studio 2015\Projects\Exercicio4\Exercicio4\obj\Debug\Exercicio4.csprojResolveAssemblyReference.cache

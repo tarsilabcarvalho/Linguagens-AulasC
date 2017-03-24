@@ -1,0 +1,8 @@
+c:\users\aluno - gti-ads\documents\visual studio 2015\Projects\Exercicio3.1\Exercicio3.1\bin\Debug\Exercicio3.1.exe.config
+c:\users\aluno - gti-ads\documents\visual studio 2015\Projects\Exercicio3.1\Exercicio3.1\bin\Debug\Exercicio3.1.exe
+c:\users\aluno - gti-ads\documents\visual studio 2015\Projects\Exercicio3.1\Exercicio3.1\bin\Debug\Exercicio3.1.pdb
+c:\users\aluno - gti-ads\documents\visual studio 2015\Projects\Exercicio3.1\Exercicio3.1\obj\Debug\Exercicio3._1.frmExemplo.resources
+c:\users\aluno - gti-ads\documents\visual studio 2015\Projects\Exercicio3.1\Exercicio3.1\obj\Debug\Exercicio3._1.Properties.Resources.resources
+c:\users\aluno - gti-ads\documents\visual studio 2015\Projects\Exercicio3.1\Exercicio3.1\obj\Debug\Exercicio3.1.csproj.GenerateResource.Cache
+c:\users\aluno - gti-ads\documents\visual studio 2015\Projects\Exercicio3.1\Exercicio3.1\obj\Debug\Exercicio3.1.exe
+c:\users\aluno - gti-ads\documents\visual studio 2015\Projects\Exercicio3.1\Exercicio3.1\obj\Debug\Exercicio3.1.pdb

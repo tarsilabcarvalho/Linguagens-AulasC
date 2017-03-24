@@ -1,0 +1,9 @@
+c:\users\aluno - gti-ads\documents\visual studio 2015\Projects\Exercicio2.1\Exercicio2.1\bin\Debug\Exercicio2.1.exe.config
+c:\users\aluno - gti-ads\documents\visual studio 2015\Projects\Exercicio2.1\Exercicio2.1\bin\Debug\Exercicio2.1.exe
+c:\users\aluno - gti-ads\documents\visual studio 2015\Projects\Exercicio2.1\Exercicio2.1\bin\Debug\Exercicio2.1.pdb
+c:\users\aluno - gti-ads\documents\visual studio 2015\Projects\Exercicio2.1\Exercicio2.1\obj\Debug\Exercicio2.1.csprojResolveAssemblyReference.cache
+c:\users\aluno - gti-ads\documents\visual studio 2015\Projects\Exercicio2.1\Exercicio2.1\obj\Debug\Exercicio2._1.frmExercicio.resources
+c:\users\aluno - gti-ads\documents\visual studio 2015\Projects\Exercicio2.1\Exercicio2.1\obj\Debug\Exercicio2._1.Properties.Resources.resources
+c:\users\aluno - gti-ads\documents\visual studio 2015\Projects\Exercicio2.1\Exercicio2.1\obj\Debug\Exercicio2.1.csproj.GenerateResource.Cache
+c:\users\aluno - gti-ads\documents\visual studio 2015\Projects\Exercicio2.1\Exercicio2.1\obj\Debug\Exercicio2.1.exe
+c:\users\aluno - gti-ads\documents\visual studio 2015\Projects\Exercicio2.1\Exercicio2.1\obj\Debug\Exercicio2.1.pdb
