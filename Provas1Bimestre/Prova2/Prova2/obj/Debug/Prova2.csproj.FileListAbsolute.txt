@@ -1,0 +1,12 @@
+c:\users\aluno - gti-ads\documents\visual studio 2015\Projects\Prova2\Prova2\bin\Debug\Prova2.exe.config
+c:\users\aluno - gti-ads\documents\visual studio 2015\Projects\Prova2\Prova2\bin\Debug\Prova2.exe
+c:\users\aluno - gti-ads\documents\visual studio 2015\Projects\Prova2\Prova2\bin\Debug\Prova2.pdb
+c:\users\aluno - gti-ads\documents\visual studio 2015\Projects\Prova2\Prova2\obj\Debug\Prova2.csprojResolveAssemblyReference.cache
+c:\users\aluno - gti-ads\documents\visual studio 2015\Projects\Prova2\Prova2\obj\Debug\Prova2.Properties.Resources.resources
+c:\users\aluno - gti-ads\documents\visual studio 2015\Projects\Prova2\Prova2\obj\Debug\Prova2.csproj.GenerateResource.Cache
+c:\users\aluno - gti-ads\documents\visual studio 2015\Projects\Prova2\Prova2\obj\Debug\Prova2.exe
+c:\users\aluno - gti-ads\documents\visual studio 2015\Projects\Prova2\Prova2\obj\Debug\Prova2.pdb
+c:\users\aluno - gti-ads\documents\visual studio 2015\Projects\Prova2\Prova2\obj\Debug\Prova2.frmProva2.resources
+E:\Prova2\Prova2\bin\Debug\Prova2.exe.config
+E:\Prova2\Prova2\obj\Debug\Prova2.exe
+E:\Prova2\Prova2\obj\Debug\Prova2.pdb
