@@ -1,0 +1,9 @@
+c:\users\aluno - gti-ads\documents\visual studio 2015\Projects\Exercício02\Exercício02\bin\Debug\Exercício02.exe.config
+c:\users\aluno - gti-ads\documents\visual studio 2015\Projects\Exercício02\Exercício02\bin\Debug\Exercício02.exe
+c:\users\aluno - gti-ads\documents\visual studio 2015\Projects\Exercício02\Exercício02\bin\Debug\Exercício02.pdb
+c:\users\aluno - gti-ads\documents\visual studio 2015\Projects\Exercício02\Exercício02\obj\Debug\Exercício02.csprojResolveAssemblyReference.cache
+c:\users\aluno - gti-ads\documents\visual studio 2015\Projects\Exercício02\Exercício02\obj\Debug\Exercício02.Form1.resources
+c:\users\aluno - gti-ads\documents\visual studio 2015\Projects\Exercício02\Exercício02\obj\Debug\Exercício02.Properties.Resources.resources
+c:\users\aluno - gti-ads\documents\visual studio 2015\Projects\Exercício02\Exercício02\obj\Debug\Exercício02.csproj.GenerateResource.Cache
+c:\users\aluno - gti-ads\documents\visual studio 2015\Projects\Exercício02\Exercício02\obj\Debug\Exercício02.exe
+c:\users\aluno - gti-ads\documents\visual studio 2015\Projects\Exercício02\Exercício02\obj\Debug\Exercício02.pdb

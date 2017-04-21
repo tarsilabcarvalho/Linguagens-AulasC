@@ -1,0 +1,9 @@
+c:\users\aluno - gti-ads\documents\visual studio 2015\Projects\Exercicio03\Exercicio03\bin\Debug\Exercicio03.exe.config
+c:\users\aluno - gti-ads\documents\visual studio 2015\Projects\Exercicio03\Exercicio03\obj\Debug\Exercicio03.csprojResolveAssemblyReference.cache
+c:\users\aluno - gti-ads\documents\visual studio 2015\Projects\Exercicio03\Exercicio03\obj\Debug\Exercicio03.frmFalador.resources
+c:\users\aluno - gti-ads\documents\visual studio 2015\Projects\Exercicio03\Exercicio03\obj\Debug\Exercicio03.Properties.Resources.resources
+c:\users\aluno - gti-ads\documents\visual studio 2015\Projects\Exercicio03\Exercicio03\obj\Debug\Exercicio03.csproj.GenerateResource.Cache
+c:\users\aluno - gti-ads\documents\visual studio 2015\Projects\Exercicio03\Exercicio03\bin\Debug\Exercicio03.exe
+c:\users\aluno - gti-ads\documents\visual studio 2015\Projects\Exercicio03\Exercicio03\bin\Debug\Exercicio03.pdb
+c:\users\aluno - gti-ads\documents\visual studio 2015\Projects\Exercicio03\Exercicio03\obj\Debug\Exercicio03.exe
+c:\users\aluno - gti-ads\documents\visual studio 2015\Projects\Exercicio03\Exercicio03\obj\Debug\Exercicio03.pdb

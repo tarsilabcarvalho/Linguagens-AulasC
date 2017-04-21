@@ -1,0 +1,9 @@
+c:\users\aluno - gti-ads\documents\visual studio 2015\Projects\Exercicio05\Exercicio05\bin\Debug\Exercicio05.exe.config
+c:\users\aluno - gti-ads\documents\visual studio 2015\Projects\Exercicio05\Exercicio05\obj\Debug\Exercicio05.csprojResolveAssemblyReference.cache
+c:\users\aluno - gti-ads\documents\visual studio 2015\Projects\Exercicio05\Exercicio05\obj\Debug\Exercicio05.frmCriptografar.resources
+c:\users\aluno - gti-ads\documents\visual studio 2015\Projects\Exercicio05\Exercicio05\obj\Debug\Exercicio05.Properties.Resources.resources
+c:\users\aluno - gti-ads\documents\visual studio 2015\Projects\Exercicio05\Exercicio05\obj\Debug\Exercicio05.csproj.GenerateResource.Cache
+c:\users\aluno - gti-ads\documents\visual studio 2015\Projects\Exercicio05\Exercicio05\bin\Debug\Exercicio05.exe
+c:\users\aluno - gti-ads\documents\visual studio 2015\Projects\Exercicio05\Exercicio05\bin\Debug\Exercicio05.pdb
+c:\users\aluno - gti-ads\documents\visual studio 2015\Projects\Exercicio05\Exercicio05\obj\Debug\Exercicio05.exe
+c:\users\aluno - gti-ads\documents\visual studio 2015\Projects\Exercicio05\Exercicio05\obj\Debug\Exercicio05.pdb

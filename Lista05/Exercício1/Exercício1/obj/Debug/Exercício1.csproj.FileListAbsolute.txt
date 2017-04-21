@@ -1,0 +1,9 @@
+c:\users\aluno - gti-ads\documents\visual studio 2015\Projects\Exercício1\Exercício1\bin\Debug\Exercício1.exe.config
+c:\users\aluno - gti-ads\documents\visual studio 2015\Projects\Exercício1\Exercício1\obj\Debug\Exercício1.csprojResolveAssemblyReference.cache
+c:\users\aluno - gti-ads\documents\visual studio 2015\Projects\Exercício1\Exercício1\obj\Debug\Exercício1.Form1.resources
+c:\users\aluno - gti-ads\documents\visual studio 2015\Projects\Exercício1\Exercício1\obj\Debug\Exercício1.Properties.Resources.resources
+c:\users\aluno - gti-ads\documents\visual studio 2015\Projects\Exercício1\Exercício1\obj\Debug\Exercício1.csproj.GenerateResource.Cache
+c:\users\aluno - gti-ads\documents\visual studio 2015\Projects\Exercício1\Exercício1\bin\Debug\Exercício1.exe
+c:\users\aluno - gti-ads\documents\visual studio 2015\Projects\Exercício1\Exercício1\bin\Debug\Exercício1.pdb
+c:\users\aluno - gti-ads\documents\visual studio 2015\Projects\Exercício1\Exercício1\obj\Debug\Exercício1.exe
+c:\users\aluno - gti-ads\documents\visual studio 2015\Projects\Exercício1\Exercício1\obj\Debug\Exercício1.pdb
