@@ -1,0 +1,9 @@
+c:\users\aluno - gti-ads\documents\visual studio 2015\Projects\Exercicio02\Exercicio02\bin\Debug\Exercicio02.exe.config
+c:\users\aluno - gti-ads\documents\visual studio 2015\Projects\Exercicio02\Exercicio02\obj\Debug\Exercicio02.csprojResolveAssemblyReference.cache
+c:\users\aluno - gti-ads\documents\visual studio 2015\Projects\Exercicio02\Exercicio02\obj\Debug\Exercicio02.frmLinguagens.resources
+c:\users\aluno - gti-ads\documents\visual studio 2015\Projects\Exercicio02\Exercicio02\obj\Debug\Exercicio02.Properties.Resources.resources
+c:\users\aluno - gti-ads\documents\visual studio 2015\Projects\Exercicio02\Exercicio02\obj\Debug\Exercicio02.csproj.GenerateResource.Cache
+c:\users\aluno - gti-ads\documents\visual studio 2015\Projects\Exercicio02\Exercicio02\bin\Debug\Exercicio02.exe
+c:\users\aluno - gti-ads\documents\visual studio 2015\Projects\Exercicio02\Exercicio02\bin\Debug\Exercicio02.pdb
+c:\users\aluno - gti-ads\documents\visual studio 2015\Projects\Exercicio02\Exercicio02\obj\Debug\Exercicio02.exe
+c:\users\aluno - gti-ads\documents\visual studio 2015\Projects\Exercicio02\Exercicio02\obj\Debug\Exercicio02.pdb
