@@ -1,0 +1,9 @@
+c:\users\aluno - gti-ads\documents\visual studio 2015\Projects\Mercado\Mercado\bin\Debug\Mercado.exe.config
+c:\users\aluno - gti-ads\documents\visual studio 2015\Projects\Mercado\Mercado\bin\Debug\Mercado.exe
+c:\users\aluno - gti-ads\documents\visual studio 2015\Projects\Mercado\Mercado\bin\Debug\Mercado.pdb
+c:\users\aluno - gti-ads\documents\visual studio 2015\Projects\Mercado\Mercado\obj\Debug\Mercado.csprojResolveAssemblyReference.cache
+c:\users\aluno - gti-ads\documents\visual studio 2015\Projects\Mercado\Mercado\obj\Debug\Mercado.Form1.resources
+c:\users\aluno - gti-ads\documents\visual studio 2015\Projects\Mercado\Mercado\obj\Debug\Mercado.Properties.Resources.resources
+c:\users\aluno - gti-ads\documents\visual studio 2015\Projects\Mercado\Mercado\obj\Debug\Mercado.csproj.GenerateResource.Cache
+c:\users\aluno - gti-ads\documents\visual studio 2015\Projects\Mercado\Mercado\obj\Debug\Mercado.exe
+c:\users\aluno - gti-ads\documents\visual studio 2015\Projects\Mercado\Mercado\obj\Debug\Mercado.pdb

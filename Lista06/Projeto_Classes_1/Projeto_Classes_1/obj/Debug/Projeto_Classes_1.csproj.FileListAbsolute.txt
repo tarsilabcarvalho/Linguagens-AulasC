@@ -1,0 +1,9 @@
+c:\users\aluno - gti-ads\documents\visual studio 2015\Projects\Projeto_Classes_1\Projeto_Classes_1\bin\Debug\Projeto_Classes_1.exe.config
+c:\users\aluno - gti-ads\documents\visual studio 2015\Projects\Projeto_Classes_1\Projeto_Classes_1\bin\Debug\Projeto_Classes_1.exe
+c:\users\aluno - gti-ads\documents\visual studio 2015\Projects\Projeto_Classes_1\Projeto_Classes_1\bin\Debug\Projeto_Classes_1.pdb
+c:\users\aluno - gti-ads\documents\visual studio 2015\Projects\Projeto_Classes_1\Projeto_Classes_1\obj\Debug\Projeto_Classes_1.csprojResolveAssemblyReference.cache
+c:\users\aluno - gti-ads\documents\visual studio 2015\Projects\Projeto_Classes_1\Projeto_Classes_1\obj\Debug\Projeto_Classes_1.frmClasse.resources
+c:\users\aluno - gti-ads\documents\visual studio 2015\Projects\Projeto_Classes_1\Projeto_Classes_1\obj\Debug\Projeto_Classes_1.Properties.Resources.resources
+c:\users\aluno - gti-ads\documents\visual studio 2015\Projects\Projeto_Classes_1\Projeto_Classes_1\obj\Debug\Projeto_Classes_1.csproj.GenerateResource.Cache
+c:\users\aluno - gti-ads\documents\visual studio 2015\Projects\Projeto_Classes_1\Projeto_Classes_1\obj\Debug\Projeto_Classes_1.exe
+c:\users\aluno - gti-ads\documents\visual studio 2015\Projects\Projeto_Classes_1\Projeto_Classes_1\obj\Debug\Projeto_Classes_1.pdb
