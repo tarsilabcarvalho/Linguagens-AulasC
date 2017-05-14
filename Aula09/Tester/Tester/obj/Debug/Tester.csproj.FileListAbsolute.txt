@@ -1,0 +1,6 @@
+c:\users\aluno - gti-ads\documents\visual studio 2015\Projects\Tester\Tester\bin\Debug\Tester.exe.config
+c:\users\aluno - gti-ads\documents\visual studio 2015\Projects\Tester\Tester\bin\Debug\Tester.exe
+c:\users\aluno - gti-ads\documents\visual studio 2015\Projects\Tester\Tester\bin\Debug\Tester.pdb
+c:\users\aluno - gti-ads\documents\visual studio 2015\Projects\Tester\Tester\obj\Debug\Tester.csprojResolveAssemblyReference.cache
+c:\users\aluno - gti-ads\documents\visual studio 2015\Projects\Tester\Tester\obj\Debug\Tester.exe
+c:\users\aluno - gti-ads\documents\visual studio 2015\Projects\Tester\Tester\obj\Debug\Tester.pdb

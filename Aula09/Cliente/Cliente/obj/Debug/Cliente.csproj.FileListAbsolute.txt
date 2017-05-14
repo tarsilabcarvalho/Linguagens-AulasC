@@ -1,0 +1,5 @@
+c:\users\aluno - gti-ads\documents\visual studio 2015\Projects\Cliente\Cliente\bin\Debug\Cliente.exe.config
+c:\users\aluno - gti-ads\documents\visual studio 2015\Projects\Cliente\Cliente\bin\Debug\Cliente.exe
+c:\users\aluno - gti-ads\documents\visual studio 2015\Projects\Cliente\Cliente\bin\Debug\Cliente.pdb
+c:\users\aluno - gti-ads\documents\visual studio 2015\Projects\Cliente\Cliente\obj\Debug\Cliente.exe
+c:\users\aluno - gti-ads\documents\visual studio 2015\Projects\Cliente\Cliente\obj\Debug\Cliente.pdb
